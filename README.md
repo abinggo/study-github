@@ -12,3 +12,7 @@ github上传文件
 第五步 git conmit -m "yb“
 <br>
 第六步 git push -u origin main
+<br>
+不同服务器之间的文件快速传输：
+scp +输入地址 +账号@地址：+输出地址
+scp ABC.txt xxl@192.168.15.90:/data/xxl
