@@ -7,11 +7,11 @@ github上传文件
 <br>
 第三步 将修改的内容放在文件夹中
 <br>
-第四步 git add .
+第四步 ```git add .```
 <br>
 中间可能需要你先绑定一下账号
 <br>
-第五步 git commit -m "yb“
+第五步 ```git commit -m "yb"```
 <br>
 第六步 git push -u origin main
 <br>
